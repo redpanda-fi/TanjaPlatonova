@@ -18,4 +18,4 @@ I am Tanja Platonova, a Data Analyst with a Master's Degree in Applied Linguisti
 
 SQL: [RFM-Analysis for customer segmentation](https://github.com/redpanda-fi/rfm_sql)
 
-Power BI: [Overview a mobile game](https://github.com/redpanda-fi/PowerBI_NNGame)
+Power BI Report: [Mobile Game Metrics](https://github.com/redpanda-fi/PowerBI_NNGame)
