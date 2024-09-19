@@ -4,11 +4,11 @@ I am Tanja Platonova, a Data Analyst with a Master's Degree in Applied Linguisti
 
 **My skills**
 
-**Data Analytics**: Excel/Google Sheets (Advanced) • SQL (Advanced) • R (Proficient) • Python: Pandas, Seaborn (Proficient) • Power BI: DAX, Data Modeling (MS Certified) • Data Transformation • Data Visualization 
+**Data Analytics**:  SQL (Advanced) • Python: Pandas, Seaborn (Proficient) • Power BI: DAX, Data Modeling (MS Certified) • R (Proficient) • Excel/Google Sheets (Advanced) • Data Transformation • Data Visualization 
 
 **Mathematics**: Statistics • Probability 
 
-**Product Management**: Data-driven decision-making • Agile methodology • KPI's • Product Metrics • Time Management • Collaborative mindset 
+**Product Management**: Data-driven Decision-making • Agile Methodology • KPI's • Product Metrics • Time Management • Collaborative Mindset 
 
 **Domain Knowledge**: Information Technology • Web • Mobile App • Marketing Analytics 
 
