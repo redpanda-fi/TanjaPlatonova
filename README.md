@@ -20,4 +20,6 @@ Excel: [ABC Analysis for Inventory Management](https://github.com/redpanda-fi/ab
 
 SQL: [RFM Analysis for Customer Segmentation](https://github.com/redpanda-fi/rfm_sql)
 
-Power BI Report: [Mobile Game Metrics](https://github.com/redpanda-fi/PowerBI_NNGame)
+Power BI: [Mobile Game Metrics](https://github.com/redpanda-fi/PowerBI_NNGame)
+
+Python: [Analyzing Mobile Game Data Using Pandas](https://github.com/redpanda-fi/eda_pandas)
