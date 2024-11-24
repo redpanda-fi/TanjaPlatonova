@@ -1,6 +1,6 @@
 Hi! 
 
-I am Tanja Platonova, a Data Analyst with a Master's Degree in Applied Linguistics and a solid background in Product Management. I am fascinated by the power of data and excited to apply my skills and contribute right from the start.
+I am Tanja Platonova, a Product Manager with a special interest in data analytics. I am fascinated by the power of data and excited to apply my skills and contribute right from the start.
 
 **My skills**
 
